@@ -7,7 +7,9 @@ var app = express();
 app.use(morgan('combined'));
 
 
-var articleOne= {
+var articles={
+    
+ 'article-one':{
   title:"Article-one",
   heading:"Article-one",
   date: "September 20th 2016",
@@ -21,7 +23,39 @@ var articleOne= {
                 <p>
                  This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!
                 </p> `
+},
+' article-two':{
+  title:"Article-two",
+  heading:"Article-two",
+  date: "January 20th 2016",
+  content: `
+  <p>
+                      Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla 
+                    </p>
+                   <p>
+                      Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla 
+                    </p>
+                    <p>
+                      Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla 
+                    </p> `
+},
+ 'article-three': {
+  title:"Article-Three",
+  heading:"Article-Three",
+  date: "August 20th 2016",
+  content: `
+   <p>
+                    Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one 
+                    </p>
+                   <p>
+                    Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one 
+                    </p>
+                   <p>
+                    Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one Third one 
+                    </p> `
 };
+}
+
  function createTemplate(data){
      var title=data.title;
      var date=data.date;
@@ -66,15 +100,15 @@ app.get('/', function (req, res) {
 });
 
 app.get('/article-one',function(req,res){
- res.send(createTemplate(articleOne));
+res.send(createTemplate(articles[articleName]));
 });
 
 app.get('/article-two',function(req,res){
-res.sendFile(path.join(__dirname, 'ui', 'article-two.html'));
+res.send(createTemplate(articles[articleName]));
 });
 
 app.get('/article-three',function(req,res){
-res.sendFile(path.join(__dirname, 'ui', 'article-three.html'));
+res.send(createTemplate(articles[articleName]));
 });
 
 app.get('/ui/style.css', function (req, res) {
