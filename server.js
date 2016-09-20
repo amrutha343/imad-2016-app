@@ -24,20 +24,20 @@ var articles={
                  This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!
                 </p> `
 },
-' article-two':{
-  title:"Article-two",
-  heading:"Article-two",
-  date: "January 20th 2016",
+ 'article-two':{
+  title:"Article-one",
+  heading:"Article-one",
+  date: "September 20th 2016",
   content: `
   <p>
-                      Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla 
-                    </p>
-                   <p>
-                      Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla 
-                    </p>
-                    <p>
-                      Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla 
-                    </p> `
+                   This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!
+                </p>
+                <p>
+                    This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!
+                </p>
+                <p>
+                 This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!
+                </p> `
 },
  'article-three': {
   title:"Article-Three",
