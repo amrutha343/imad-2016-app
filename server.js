@@ -25,19 +25,19 @@ var articles={
                 </p> `
 },
  'article-two':{
-  title:"Article-one",
-  heading:"Article-one",
-  date: "September 20th 2016",
+  title:"Article-Two",
+  heading:"Article-Two",
+  date: "April 20th 2016",
   content: `
-  <p>
-                   This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!
-                </p>
-                <p>
-                    This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!
-                </p>
-                <p>
-                 This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!
-                </p> `
+                    <p>
+                      Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla 
+                    </p>
+                   <p>
+                      Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla 
+                    </p>
+                    <p>
+                      Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla 
+                    </p> `
 },
  'article-three': {
   title:"Article-Three",
