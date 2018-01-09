@@ -31,14 +31,14 @@ var articles={
   date: "April 20th 2016",
   content: `
                     <p>
-                      Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla 
-                    </p>
-                   <p>
-                      Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla 
-                    </p>
-                    <p>
-                      Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla  Blabla 
-                    </p> `
+                   This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!
+                </p>
+                <p>
+                    This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!
+                </p>
+                <p>
+                 This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!This is the content for my first article!
+                </p> `
 },
  'article-three': {
   title:"Article-Three",
